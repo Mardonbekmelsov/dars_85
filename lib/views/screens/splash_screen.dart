@@ -1,4 +1,5 @@
-import 'package:dars_85/views/screens/main_screen.dart';
+import 'package:dars_85/views/screens/scan_qr_screen.dart';
+import 'package:dars_85/views/screens/main_screenn.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
